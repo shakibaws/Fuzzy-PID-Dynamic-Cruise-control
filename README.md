@@ -1,0 +1,1 @@
+This project implements a vehicle cruise control system using an adaptive fuzzy PID controller in MATLAB/Simulink. The controller dynamically adjusts Kp and Ki using fuzzy logic based on speed error and its derivative, providing smoother and more robust performance under changing road and load conditions.
